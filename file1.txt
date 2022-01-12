@@ -1,3 +1,4 @@
 adding lines
 file1 comparision
 lesson on git stash checking
+lesson on git stash
